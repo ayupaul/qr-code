@@ -1,0 +1,31 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+h1{
+    font-size: 110%; 
+    font-family: 'Outfit', sans-serif;   
+    font-weight: 700;
+    text-align: center;
+}
+div{
+    margin-top: 8%;
+    margin-left: 40%;
+    background-color: white;
+    width: 230px;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 3%;
+    border-radius: 15px;
+    height: 350px;
+}
+p{
+    font-size: 15px;
+    font-weight: lighter;
+    color: grey;
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+}
+
